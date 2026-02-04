@@ -1,0 +1,91 @@
+{
+  "produtos": [
+    {
+      "id": "teste-1",
+      "title": "Conjunto Alfaiataria",
+      "description": "Conjunto Alfaiataria",
+      "price": "R$ 159,90",
+      "category": "Roupas",
+      "featured": true,
+      "sizes": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "colors": [
+        "Preto",
+        "Branco",
+        "Cinza"
+      ],
+      "image": "/images/products/Conjunto Alfaiataria.png"
+    },
+    {
+      "id": "teste-2",
+      "title": "Blusa Tricot Premium",
+      "description": "Calça jeans com corte moderno e tecido premium",
+      "price": "R$ 549,90",
+      "price_num": 249.9,
+      "image": "/images/products/Blusa Tricot Premium.png",
+      "category": "Roupas",
+      "featured": false,
+      "sizes": [
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "colors": [
+        "Azul Escuro",
+        "Preto"
+      ]
+    },
+    {
+      "id": "teste-3",
+      "title": "Vestido Floral Outono",
+      "description": "Vestido para ocasiões especiais com tecido fluido",
+      "price": "R$ 1000,90",
+      "category": "Vestidos",
+      "featured": true,
+      "sizes": [
+        "P",
+        "M",
+        "G"
+      ],
+      "colors": [
+        "Preto",
+        "Vermelho",
+        "Azul Marinho"
+      ],
+      "image": "/images/products/Vestido Floral Outono.png"
+    },
+    {
+      "id": "prod-1770149543439-f03bydl2f",
+      "title": "teste",
+      "description": "teste",
+      "price": "R$ 99.90",
+      "category": "Carro",
+      "featured": true,
+      "sizes": [
+        "Pequeno",
+        "Medio",
+        "Grande"
+      ],
+      "colors": [
+        "Preto"
+      ],
+      "image": "/images/products/prod-1770149543439-f03bydl2f.jpg"
+    }
+  ],
+  "metadata": {
+    "total_produtos": 4,
+    "categorias": [
+      "Roupas",
+      "Vestidos",
+      "Carro"
+    ],
+    "ultima_atualizacao": "2026-02-03T20:12:26.645Z",
+    "versao": "1.0"
+  }
+}
