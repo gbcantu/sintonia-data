@@ -76,16 +76,32 @@
         "Preto"
       ],
       "image": "/images/products/prod-1770149543439-f03bydl2f.jpg"
+    },
+    {
+      "id": "prod-1770232936843-39egbv6ro",
+      "title": "Snoopy",
+      "description": "",
+      "price": "R$ 100,90",
+      "category": "Cachorro",
+      "featured": false,
+      "sizes": [
+        "Grande"
+      ],
+      "colors": [
+        "Verde"
+      ],
+      "image": "/images/products/prod-1770232936843-39egbv6ro.webp"
     }
   ],
   "metadata": {
-    "total_produtos": 4,
+    "total_produtos": 5,
     "categorias": [
       "Roupas",
       "Vestidos",
-      "Carro"
+      "Carro",
+      "Cachorro"
     ],
-    "ultima_atualizacao": "2026-02-03T20:12:26.645Z",
+    "ultima_atualizacao": "2026-02-04T19:22:18.581Z",
     "versao": "1.0"
   }
 }
